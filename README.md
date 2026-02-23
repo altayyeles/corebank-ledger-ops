@@ -1,5 +1,4 @@
 # CoreBank Ledger — V10
-[![CI](https://github.com/altayyeles/corebank-ledger-ops/actions/workflows/ci.yml/badge.svg)](https://github.com/altayyeles/corebank-ledger-ops/actions/workflows/ci.yml)
 
 ## 📸 Ekran Görüntüleri
 
